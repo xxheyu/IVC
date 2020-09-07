@@ -1,0 +1,9 @@
+Environment
+ * Matlab with Image Processing Toolbox
+
+In folder 'code'
+ * Run 'optimization.m' to get results with optimization
+ * Results without optimization are saved in 'results_no_opt.mat'
+ Change data path
+    * 'optimization.m' line 4 and line 33
+    * 'Training.m' line 10
